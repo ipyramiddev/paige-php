@@ -274,10 +274,8 @@
             <a href="#" class="primary coop_btn">coop.ch Login</a>
             <a href="#" class="modal_link">Jetzt neu registrieren</a>
         </div>
-
-
-
     </div>
+    
     <div class="modal login_modal" style="display: none">
         <div class="modal_content">
             <div class="modal_close">

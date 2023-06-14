@@ -18,15 +18,21 @@
     <meta property="og:description" content="SmarTone 5G網絡覆蓋全港最廣，供客戶隨時隨地享受No.1 5G網絡體驗。提供多元化的流動電話服務計劃、5G 家居寬頻、漫遊、儲值卡、手機及其他增值服務。">
 
     <meta property="og:image" content="https://www.smartone.com/dam/jcr:b494f96d-d3d6-4518-88fa-dcb6810afe27/logo_corpweb-400x400.png">
-    <link rel="stylesheet" id="style_common" type="text/css" href="../css/common.css">
+    <!-- <link rel="stylesheet" id="style_common" type="text/css" href="../css/common.css"> -->
     <script id="script_common" type="text/javascript" src="../assets/js/common.js"></script>
     <script type="text/javascript" src="https://www.smartone.com/JS_V4/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Open+Sans:wght@300;400;500;600;700;800&display=swap"
+          rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/new_home.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha384-{hash}" crossorigin="anonymous">
     <style>
-        footer {
+        /* footer {
             padding: 30px 20px;
             margin-top: 0px !important;
-        }
+        } */
         .backdrop {
             background-color: rgba(0, 0, 0, 0.25);
             width: 100vw;
