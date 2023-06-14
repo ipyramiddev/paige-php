@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="110px" viewBox="0 0 320 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>SC_Header</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#6FBFF0" offset="0%"></stop>
+            <stop stop-color="#C6EAFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="320" height="110"></rect>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#0088DE" offset="0%"></stop>
+            <stop stop-color="#006AB6" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-5" cx="160" cy="55" r="35"></circle>
+        <path d="M4.749,26.0101682 L26.2412,26.0101682 C27.6602,26.0101682 28.8182,24.9251682 28.9622,23.5431682 L2.028,23.5431682 C2.172,24.9251682 3.33,26.0101682 4.749,26.0101682 Z M28.9902,16.7488 C28.9902,16.1968 29.4372,15.7488 29.9902,15.7488 C30.5432,15.7488 30.9902,16.1968 30.9902,16.7488 L30.9902,23.2611682 C30.9902,25.8801682 28.8592,28.0101682 26.2412,28.0101682 L4.749,28.0101682 C2.131,28.0101682 7.46069873e-14,25.8801682 7.46069873e-14,23.2611682 L7.46069873e-14,12.769807 C7.46069873e-14,10.151807 2.131,8.02080704 4.749,8.02080704 L18.8992,8.02080704 C19.4522,8.02080704 19.8992,8.46880704 19.8992,9.02080704 C19.8992,9.57380704 19.4522,10.020807 18.8992,10.020807 L4.749,10.020807 C3.233,10.020807 2,11.253807 2,12.769807 L2,19.5431682 L28.9902,19.5431682 L28.9902,16.7488 Z M31.4121,10.435 C31.7751,9.804 32.0001,9.081 32.0001,8.3 C32.0001,5.925 30.0751,4 27.7001,4 C25.3251,4 23.4001,5.925 23.4001,8.3 C23.4001,9.109 23.6381,9.857 24.0251,10.503 C24.7371,9.883 26.1331,9.456 27.7591,9.456 C29.3241,9.456 30.6771,9.852 31.4121,10.435 Z M27.7001,2 C31.1741,2 34.0001,4.826 34.0001,8.3 C34.0001,11.774 31.1741,14.6 27.7001,14.6 C24.2261,14.6 21.4001,11.774 21.4001,8.3 C21.4001,4.826 24.2261,2 27.7001,2 Z M25.8008,6.8735 C25.8008,5.7915 26.6778,4.9155 27.7588,4.9155 C28.8398,4.9155 29.7168,5.7915 29.7168,6.8735 C29.7168,7.9545 28.8398,8.8315 27.7588,8.8315 C26.6778,8.8315 25.8008,7.9545 25.8008,6.8735 Z" id="path-7"></path>
+    </defs>
+    <g id="SC_Header" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-3" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+        <use id="Rectangle-5" fill="url(#linearGradient-1)" transform="translate(160.000000, 55.000000) scale(1, -1) translate(-160.000000, -55.000000) " xlink:href="#path-2"></use>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.100000001" mask="url(#mask-3)" cx="96" cy="5" r="64"></circle>
+        <circle id="Oval" fill="#FFFFFF" fill-rule="nonzero" opacity="0.100000001" mask="url(#mask-3)" cx="246" cy="-10" r="41"></circle>
+        <mask id="mask-6" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <use id="Oval" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+        <g id="ico/SC-ID_CTA" mask="url(#mask-6)">
+            <g transform="translate(144.000000, 37.000000)">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Combined-Shape" stroke="none" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <g id="Color/Grays/white" stroke="none" fill="none" mask="url(#mask-8)" fill-rule="evenodd">
+                    <rect id="white" fill="#FFFFFF" x="0" y="0" width="34" height="34"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

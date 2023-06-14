@@ -1,0 +1,163 @@
+[20-Oct-2022 04:50:13 America/Chicago] PHP Warning:  require_once(header.php): failed to open stream: No such file or directory in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/users.php on line 43
+[20-Oct-2022 04:50:13 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'header.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/users.php on line 43
+[20-Oct-2022 04:56:54 America/Chicago] PHP Warning:  include(visiter.php): failed to open stream: No such file or directory in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/users.php on line 162
+[20-Oct-2022 04:56:54 America/Chicago] PHP Warning:  include(visiter.php): failed to open stream: No such file or directory in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/users.php on line 162
+[20-Oct-2022 04:56:54 America/Chicago] PHP Warning:  include(): Failed opening 'visiter.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/users.php on line 162
+[20-Oct-2022 05:52:43 America/Chicago] PHP Notice:  Undefined variable: row in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 13
+[20-Oct-2022 05:52:43 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 13
+[20-Oct-2022 05:52:43 America/Chicago] PHP Notice:  Undefined variable: row in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 16
+[20-Oct-2022 06:30:28 America/Chicago] PHP Notice:  Undefined variable: databases in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 29
+[20-Oct-2022 06:30:28 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 29
+[20-Oct-2022 07:34:45 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 53
+[20-Oct-2022 07:34:45 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 53
+[20-Oct-2022 07:34:45 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 53
+[20-Oct-2022 07:34:45 America/Chicago] PHP Warning:  Cannot use a scalar value as an array in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 53
+[20-Oct-2022 07:34:45 America/Chicago] PHP Warning:  implode(): Invalid arguments passed in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 58
+[20-Oct-2022 08:28:53 America/Chicago] PHP Warning:  include(visiter.php): failed to open stream: No such file or directory in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 331
+[20-Oct-2022 08:28:53 America/Chicago] PHP Warning:  include(visiter.php): failed to open stream: No such file or directory in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 331
+[20-Oct-2022 08:28:53 America/Chicago] PHP Warning:  include(): Failed opening 'visiter.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 331
+[20-Oct-2022 08:29:03 America/Chicago] PHP Warning:  file(hitcount.txt): failed to open stream: No such file or directory in /home4/crystnni/wordpress-expert.com/upwork/task_four/visiter.php on line 3
+[20-Oct-2022 08:29:03 America/Chicago] PHP Notice:  Undefined offset: 0 in /home4/crystnni/wordpress-expert.com/upwork/task_four/visiter.php on line 4
+[20-Oct-2022 08:29:03 America/Chicago] PHP Warning:  fopen(hitcount.txt): failed to open stream: No such file or directory in /home4/crystnni/wordpress-expert.com/upwork/task_four/visiter.php on line 6
+[20-Oct-2022 08:29:03 America/Chicago] PHP Warning:  fread() expects parameter 1 to be resource, bool given in /home4/crystnni/wordpress-expert.com/upwork/task_four/visiter.php on line 7
+[20-Oct-2022 08:29:03 America/Chicago] PHP Warning:  fclose() expects parameter 1 to be resource, bool given in /home4/crystnni/wordpress-expert.com/upwork/task_four/visiter.php on line 8
+[21-Oct-2022 10:00:39 Asia/Kolkata] PHP Notice:  Undefined index: auto_refresh in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/setting.php on line 34
+[21-Oct-2022 00:34:20 America/Chicago] PHP Notice:  Undefined variable: url in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/config.php on line 80
+[21-Oct-2022 02:23:15 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/dashboard_functions.php on line 5
+[21-Oct-2022 02:30:16 America/Chicago] PHP Notice:  Trying to get property 'affected_rows' of non-object in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/dashboard_functions.php on line 14
+[21-Oct-2022 02:30:38 America/Chicago] PHP Notice:  Trying to get property 'affected_rows' of non-object in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/dashboard_functions.php on line 14
+[21-Oct-2022 02:31:06 America/Chicago] PHP Notice:  Trying to get property 'affected_rows' of non-object in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/dashboard_functions.php on line 14
+[21-Oct-2022 02:34:36 America/Chicago] PHP Notice:  Trying to get property 'affected_rows' of non-object in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/dashboard_functions.php on line 14
+[21-Oct-2022 02:34:54 America/Chicago] PHP Notice:  Trying to get property 'affected_rows' of non-object in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/dashboard_functions.php on line 14
+[21-Oct-2022 02:35:53 America/Chicago] PHP Notice:  Trying to get property 'affected_rows' of non-object in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/dashboard_functions.php on line 14
+[22-Oct-2022 14:42:54 Asia/Tokyo] PHP Notice:  Undefined index: platform_type in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 778
+[22-Oct-2022 14:42:54 Asia/Tokyo] PHP Notice:  Undefined index: platform_type in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 778
+[22-Oct-2022 14:42:54 Asia/Tokyo] PHP Notice:  Undefined index: platform_type in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 778
+[22-Oct-2022 14:42:54 Asia/Tokyo] PHP Notice:  Undefined index: platform_type in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/index.php on line 778
+[22-Oct-2022 05:49:28 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 18
+[22-Oct-2022 05:54:06 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:54:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:54:06 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 05:54:06 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 05:54:28 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:54:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:54:28 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 05:54:28 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 05:56:17 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:56:17 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:56:17 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 05:56:17 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 05:56:51 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:56:51 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:56:51 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 05:56:51 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 05:57:00 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:57:00 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:57:00 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 05:57:00 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 05:57:54 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:57:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:57:54 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 05:57:54 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 05:58:10 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:58:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:58:10 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 05:58:10 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 05:59:01 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:59:01 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:59:01 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 05:59:17 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:59:17 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 05:59:17 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 06:00:06 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 06:00:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 06:00:06 America/Chicago] PHP Notice:  Undefined variable: row in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 06:00:06 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 06:00:50 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 32
+[22-Oct-2022 06:00:52 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 32
+[22-Oct-2022 06:01:18 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 28
+[22-Oct-2022 06:01:26 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 06:01:26 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 06:01:26 America/Chicago] PHP Notice:  Undefined variable: row in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 06:01:26 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 28
+[22-Oct-2022 06:01:54 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 06:01:54 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 8
+[22-Oct-2022 06:01:54 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 12
+[22-Oct-2022 06:01:54 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 24
+[22-Oct-2022 06:02:06 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 15
+[22-Oct-2022 06:02:06 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 15
+[22-Oct-2022 06:02:06 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 19
+[22-Oct-2022 06:02:06 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 31
+[22-Oct-2022 06:02:09 America/Chicago] PHP Notice:  Undefined variable: conn in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 15
+[22-Oct-2022 06:02:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 15
+[22-Oct-2022 06:02:09 America/Chicago] PHP Notice:  Undefined variable: exist_result in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 19
+[22-Oct-2022 06:02:09 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 31
+[22-Oct-2022 06:04:27 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 17
+[22-Oct-2022 06:04:27 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 31
+[22-Oct-2022 06:05:43 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 31
+[22-Oct-2022 06:06:45 America/Chicago] PHP Notice:  Undefined variable: mysql_num_rows in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 16
+[22-Oct-2022 06:06:45 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php:16
+Stack trace:
+#0 /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php(7): update_usermeta(Object(mysqli), 10001, 'auto_refresh', '456')
+#1 {main}
+  thrown in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 16
+[22-Oct-2022 06:06:48 America/Chicago] PHP Notice:  Undefined variable: mysql_num_rows in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 16
+[22-Oct-2022 06:06:48 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php:16
+Stack trace:
+#0 /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php(7): update_usermeta(Object(mysqli), 10001, 'auto_refresh', '456')
+#1 {main}
+  thrown in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 16
+[22-Oct-2022 06:07:03 America/Chicago] PHP Notice:  Undefined variable: mysqli_num_rows in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 16
+[22-Oct-2022 06:07:03 America/Chicago] PHP Fatal error:  Uncaught Error: Function name must be a string in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php:16
+Stack trace:
+#0 /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php(7): update_usermeta(Object(mysqli), 10001, 'auto_refresh', '456')
+#1 {main}
+  thrown in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 16
+[22-Oct-2022 06:07:56 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 29
+[22-Oct-2022 06:08:12 America/Chicago] PHP Notice:  Undefined index: userid in /home4/crystnni/wordpress-expert.com/upwork/task_four/dashboard/reject.php on line 29
+[09-Nov-2022 00:37:49 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 653
+[09-Nov-2022 00:37:49 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 00:37:49 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php:654
+Stack trace:
+#0 {main}
+  thrown in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 00:41:33 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 653
+[09-Nov-2022 00:41:33 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 00:41:33 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php:654
+Stack trace:
+#0 {main}
+  thrown in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 00:41:37 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 653
+[09-Nov-2022 00:41:37 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 00:41:37 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php:654
+Stack trace:
+#0 {main}
+  thrown in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 00:50:05 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 653
+[09-Nov-2022 00:50:05 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 00:50:05 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php:654
+Stack trace:
+#0 {main}
+  thrown in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 02:44:49 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 653
+[09-Nov-2022 02:44:49 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 02:44:49 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php:654
+Stack trace:
+#0 {main}
+  thrown in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/users.php on line 654
+[08-Nov-2022 10:50:45 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/banip.php:7
+Stack trace:
+#0 /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/banip.php(7): mysqli_fetch_array(true, 1)
+#1 {main}
+  thrown in /home2/pinkcit1/public_html/mktvmall-pinkcitywebwork-com/dashboard/banip.php on line 7
+[09-Nov-2022 07:08:05 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home2/pinkcit1/public_html/eshop-pinkcitywebwork-com/dashboard/banip.php:7
+Stack trace:
+#0 /home2/pinkcit1/public_html/eshop-pinkcitywebwork-com/dashboard/banip.php(7): mysqli_fetch_array(true, 1)
+#1 {main}
+  thrown in /home2/pinkcit1/public_html/eshop-pinkcitywebwork-com/dashboard/banip.php on line 7
+[09-Nov-2022 23:43:53 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/eshop-pinkcitywebwork-com/dashboard/users.php on line 653
+[09-Nov-2022 23:43:53 Asia/Tokyo] PHP Warning:  Undefined variable $rows in /home2/pinkcit1/public_html/eshop-pinkcitywebwork-com/dashboard/users.php on line 654
+[09-Nov-2022 23:43:53 Asia/Tokyo] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home2/pinkcit1/public_html/eshop-pinkcitywebwork-com/dashboard/users.php:654
+Stack trace:
+#0 {main}
+  thrown in /home2/pinkcit1/public_html/eshop-pinkcitywebwork-com/dashboard/users.php on line 654

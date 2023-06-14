@@ -1,0 +1,182 @@
+.btn-y {
+
+    background-color: #ffc905;
+
+    border-radius: 10px;
+
+}
+
+
+
+.in-panel {
+
+    border-left: 6px solid #ffc905;
+
+}
+
+
+
+.big1400 {
+
+    width: 100%;
+
+    margin-top: 3rem;
+
+    padding: 3rem;
+
+    /* padding: 20%; */
+
+}
+
+
+
+
+
+.small1400 {
+
+    width: 100%;
+
+    margin-top: 3rem;
+
+    padding: 2rem;
+
+    /* padding: 20%; */
+
+}
+
+
+
+
+
+.input-group-prepend {
+
+    display: flex;
+
+    flex-direction: row;
+
+    height: 64px;
+
+    left: 500px;
+
+    top: 357px;
+
+    width: 100%;
+
+    margin-bottom: 25px;
+
+}
+
+
+
+.input-group-prepend .prepend-label {
+
+    font-size: 2.5rem;
+
+    padding: .5rem 1rem;
+
+    border: 1px solid #949494;
+
+    border-radius: 8px;
+
+    height: 60px;
+
+    border-top-right-radius: 0;
+
+    border-bottom-right-radius: 0;
+
+}
+
+
+
+.input-group-prepend .input input {
+
+    border: 1px solid #949494;
+
+    border-bottom-left-radius: 0;
+
+    border-top-left-radius: 0;
+
+    border-left: 0;
+
+}
+
+
+
+
+
+.w-100 {
+
+    width: 100%;
+
+}
+
+
+
+.res-card {
+
+    width: 100%;
+
+    border-radius: 10px;
+
+    background-color: #FFF;
+
+    box-shadow: 0 2px 10px 0 rgb(206 206 206 / 50%);
+
+    padding: 2rem;
+
+}
+
+
+
+.icon-group {
+
+    margin: 1rem 0;
+
+    display: flex;
+
+    align-items: center;
+
+}
+
+
+
+.detail-icon {
+
+    border-radius: 5px;
+
+}
+
+
+
+.detail-title {
+
+    margin-left: 1rem;
+
+    font-size: 20px;
+
+}
+
+
+
+.detail-value {
+
+    font-size: 20px;
+
+    margin-top: 1rem;
+
+}
+
+
+
+.hidef{
+
+    visibility: hidden;
+
+}
+
+/*14 october 2022*/
+
+.table{
+  border: 1px solid #ccc;
+}
+/*14 october 2022*/

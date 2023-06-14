@@ -1,0 +1,104 @@
+.basic-title {
+  color: #3C3C3C !important;
+}
+
+/******* CSS NEW ENVOI COLIS *******/
+
+.hp-market {
+  background-color: #fff;
+  max-width: 845px;
+  margin: 0 auto;
+}
+
+.hp-market .hp-wrapper {
+  padding-bottom: 42px;
+}
+
+.hp-market .section-market-cats {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 0px;
+}
+
+.hp-market .section-market-cat {
+  text-align: center;
+  padding-right: 0px;
+  border: solid 1px #E1E1E1;
+  border-radius: 10px;
+  padding: 5px;
+  width: 13%;
+}
+
+.hp-market .section-market-cat a {
+  text-align: center;
+}
+
+.hp-market .section-market-cat a:hover .section-market-cat-text {
+  color: #20458F;
+  text-decoration: underline;
+}
+
+.hp-market .section-market-cat-img {
+  display: block;
+  margin: 0 auto 10px;
+  height: 60px;
+}
+
+.hp-market .section-market-cat-text {
+  color: #4A4A4A;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 16px;
+  text-align: center;
+  -webkit-transition: color .4s ease;
+  transition: color .4s ease;
+}
+
+/******* MODIFS zone carrousel Target To sell *******/
+
+.plotproduit .plotproduit-img .pastille-promotion {
+  bottom: -130px !important;
+}
+
+.plotproduit .plotproduit-img .addproductfavorite,
+.plotproduit .plotproduit-img .icon-favorite {
+  top: -10px !important;
+}
+
+.plotproduit .box-bottom-push-product {
+  position: absolute;
+  left: 15px !important;
+  height: 55px !important;
+}
+
+.plotproduit {
+  min-height: 350px !important;
+  padding: 5px 15px 110px !important;
+}
+
+/******* MODIFS zone recommandation *******/
+#bestSelling {
+  background: #fff !important;
+}
+
+#small1400 {
+  background: #fff !important;
+}
+
+.big1400 {
+  padding: 0 !important;
+}
+
+.push-offer-title {
+  font-size: 1.8rem !important;
+}
+
+.carousel-pl .flickity-button {
+  margin-top: -40px !important;
+}
+
+.carousel-pl {
+  padding-top: 10px !important;
+}

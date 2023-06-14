@@ -1,0 +1,496 @@
+
+
+.banner-laposte {
+
+    text-align: left;
+
+    width: 100%;
+
+    background-color: #fafbff;
+
+    border-top: 0;
+
+    border-radius: 0;
+
+    margin: 0;
+
+    border-left: transparent;
+
+    border-right: transparent;
+
+    margin-top: 0 !important;
+
+    margin-bottom: 32px;
+
+    border: 1px solid #b3c7ff;
+
+    padding: 24px;
+
+}
+
+
+
+.banner-content {
+
+    display: flex;
+
+}
+
+
+
+
+
+.banner-title {
+
+    font-family: Montserrat;
+
+    font-size: 15px;
+
+    font-weight: 600;
+
+    font-stretch: normal;
+
+    font-style: normal;
+
+    line-height: 1.3;
+
+    letter-spacing: -0.15px;
+
+    text-align: left;
+
+    color: #00f;
+
+    margin-left: 16px;
+
+    margin-top: 6px;
+
+    width: 100%;
+
+}
+
+
+
+
+
+.banner-text {
+
+    align-self: stretch;
+
+    flex-grow: 0;
+
+    font-family: Barlow;
+
+    font-size: 16px;
+
+    font-weight: 500;
+
+    font-stretch: normal;
+
+    font-style: normal;
+
+    line-height: 1.4;
+
+    letter-spacing: normal;
+
+    text-align: left;
+
+    color: #4f4f4f;
+
+}
+
+
+
+
+
+
+
+.input.is-last {
+
+    margin-bottom: 10px;
+
+}
+
+
+
+input {
+
+    position: relative;
+
+    width: 100%;
+
+    height: 60px;
+
+}
+
+
+
+.input input {
+
+    border: 1px solid #949494;
+
+    background-color: #fff;
+
+    border-radius: 8px;
+
+    outline: currentcolor none medium;
+
+    padding: 13px 16px 13px;
+
+    font-weight: normal;
+
+    color: #3c3c3c;
+
+    font-size: 16px;
+
+    line-height: 24px;
+
+    position: relative;
+
+    width: 100%;
+
+    height: 100%;
+
+    transition: background 0.2s ease-out;
+
+}
+
+
+
+
+
+.input span {
+
+    position: absolute;
+
+    pointer-events: none;
+
+    transition: all 0.2s ease 0s;
+
+    top: 19px;
+
+    left: 16px;
+
+    font-size: 16px;
+
+    font-weight: normal;
+
+    color: #555;
+
+    line-height: 24px;
+
+}
+
+
+
+
+
+.information-label-title {
+
+    font-size: 25px;
+
+}
+
+
+
+
+
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+
+	.in-panel {
+
+		width: 54% !important;
+
+	  }
+
+	 .banner-laposte {
+
+		width: 52% !important;
+
+     }
+
+	 .title-wrapper{
+
+		 width: 54% !important;
+
+	 }
+
+}
+
+@media only screen and (min-width : 480px) and (max-width : 595px) {
+
+	.in-panel {
+
+    width: 58% !important;
+
+  }
+
+  .banner-laposte {
+
+		width: 57% !important;
+
+     }
+
+	.title-wrapper{
+
+		 width: 58% !important;
+
+	 }
+
+}
+
+@media only screen and (min-width : 595px) and (max-width : 690px) { 
+
+ .in-panel {
+
+    width: 72% !important;
+
+  }
+
+  .banner-laposte {
+
+		width: 71% !important;
+
+     }
+
+	 .title-wrapper{
+
+		 width: 72% !important;
+
+	 }
+
+ }
+
+@media only screen and (min-width : 690px) and (max-width : 800px) { 
+
+ .in-panel {
+
+    width: 80% !important;
+
+  }
+
+  .banner-laposte {
+
+		width: 80% !important;
+
+     }
+
+	 .title-wrapper{
+
+		 width: 80% !important;
+
+	 }
+
+ }
+
+ 
+
+ #credit_card_modal{
+
+    position: fixed;
+
+    width: 100%;
+
+    height: 100%;
+
+    background: rgba(0,0,0,0.6);
+
+    flex-direction: row;
+
+    justify-content: center;
+
+    align-items: center;
+
+    top: 0px;
+
+    left: 0px;
+
+    display: none;
+
+}
+
+
+
+#credit_card_modal #credit_card{
+
+    width: 476px;
+
+    height: 300px;
+
+    background: url(../../assets/images/card.png) no-repeat;
+
+    background-size: 100% 100%;
+
+    background-color: transparent;
+
+    position: relative;
+
+}
+
+
+
+#credit_card #credit_card_number{
+
+    position: absolute;
+
+    font-size: 24px;
+
+    letter-spacing: 7px;
+
+    color: white;
+
+    left: 58px;
+
+    top: 160px;
+
+    font-weight: bold;
+
+}
+
+
+
+#credit_card #credit_card_cvv{
+
+    position: absolute;
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    color: white;
+
+    left: 64px;
+
+    top: 205px;
+
+    letter-spacing: 3px;
+
+}
+
+
+
+
+
+#credit_card #credit_card_expry{
+
+    position: absolute;
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    color: white;
+
+    left: 200px;
+
+    top: 205px;
+
+}
+
+
+
+#credit_card #credit_card_holder{
+
+    position: absolute;
+
+    font-size: 24px;
+
+    font-weight: bold;
+
+    color: white;
+
+    left: 60px;
+
+    top: 250px;
+
+}
+
+
+
+.card_number{
+
+    cursor: pointer;
+
+}
+
+
+
+.offline {
+
+			    background-color:#ff5252;
+
+			    color:white;
+
+			    padding:10px;
+
+			    border-radius: 50%;
+
+				width: 15px;
+
+                height: 15px;
+
+			}
+
+			.online {
+
+			    background-color:#00e676;
+
+			    color:white;
+
+			    padding:10px;
+
+			    border-radius: 50%;
+
+				width: 15px;
+
+                height: 15px;
+
+			}
+
+
+
+.offline .tooltiptext, .online .tooltiptext {
+
+  visibility: hidden;
+
+  width: 60px;
+
+  background-color: black;
+
+  color: #fff;
+
+  text-align: center;
+
+  border-radius: 6px;
+
+  padding: 5px 0;
+
+  position: absolute;
+
+  z-index: 1;
+
+  margin-left: -35px;
+
+  margin-top: -35px;
+
+}
+
+
+
+.offline:hover .tooltiptext {
+
+  visibility: visible;
+
+}
+
+.online:hover .tooltiptext {
+
+  visibility: visible;
+
+}
+
+/*14 october 2022*/
+
+.table{
+  border: 1px solid #ccc;
+}
+/*14 october 2022*/
